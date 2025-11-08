@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on B.S. CompSci
-- 🌱 I’m currently learning how to make crypo apps
+- 🔭 I’m currently working on A.S. Computer Information Systems 
 - 💬 Ask me about my pups
 
 <!--
