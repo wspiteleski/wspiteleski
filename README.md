@@ -22,7 +22,7 @@ I am currently completing a higher education as a Department of Defense contract
 
 ---
 
-## Current School Schedule
+## 🎒 Current School Schedule
 | Class | Start Date | End Date | Subject Description | Status |
 |-------|--------------|------------|-------------------------|--------|
 | Programming II: C / C++ | 25 Aug. 2025 | 15 Dec. 2025 | Advanced object oriented programming in C++ language | Complete, awaiting grade... |
@@ -46,7 +46,7 @@ I am currently completing a higher education as a Department of Defense contract
 4. Awarded the Army Acheivment Medal in 2015
 5. Maintained a **3.88 GPA** while partaking in **19 credit hours** and maintaining a full-time workforce position.
 ---
-## Currently Practicing:
+## 🚀 Currently Practicing:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)					   ![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)	![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)	![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)	
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)		![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
