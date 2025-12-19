@@ -25,10 +25,10 @@ I am currently completing a higher education as a Department of Defense contract
 ## 🎒 Current School Schedule
 | Class | Start Date | End Date | Subject Description | Status |
 |-------|--------------|------------|-------------------------|--------|
-| Programming II: C / C++ | 25 Aug. 2025 | 15 Dec. 2025 | Advanced object oriented programming in C++ language | Complete, awaiting grade... |
-| Technical Writing | 25 Aug. 2025 | 15 Dec. 2025 | Introduction to technical writing in a professional environment | Complete, awaiting grade... |
-| Computer Systems and Procedures | 15 Sept. 2025 | 15 Dec. 2025 | Introduction to system design and planning | Complete, awaiting grade...
-|Introduction to Web Programming | 20 Oct. 2025 | 15 Dec. 2025 | Introduction to web development | Complete, awaiting grade... |
+| Programming II: C / C++ | 25 Aug. 2025 | 15 Dec. 2025 | Advanced object oriented programming in C++ language | Complete ✅: A |
+| Technical Writing | 25 Aug. 2025 | 15 Dec. 2025 | Introduction to technical writing in a professional environment | Complete ✅: A  |
+| Computer Systems and Procedures | 15 Sept. 2025 | 15 Dec. 2025 | Introduction to system design and planning | Complete ✅: A 
+|Introduction to Web Programming | 20 Oct. 2025 | 15 Dec. 2025 | Introduction to web development | Complete ✅: A  |
 
 ---
 ## 🥳 Career Accomplishments 
