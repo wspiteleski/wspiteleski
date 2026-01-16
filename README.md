@@ -57,10 +57,9 @@ I am currently completing a higher education as a Department of Defense contract
 
 ---
 ## 🔮 Future Projects
-- Responsive Git Page that demonstrates:
-  1. Current Completed Projects
-  2. Blogging that follows my jounrey with current project
-  3. Version control through iterative releases of the Git Page
+- Front End Web Development Portfolio that demonstrates:
+  1. Front End Developer Challenges 
+  2. Version control through iterative releases of a responsive Git Page
 
 ---
 ## 📬Contact me:
