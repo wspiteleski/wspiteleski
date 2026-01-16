@@ -58,7 +58,7 @@ I am currently completing a higher education as a Department of Defense contract
 ---
 ## 🔮 Future Projects
 - Front End Web Development Portfolio that demonstrates:
-  1. Front End Developer Challenges 
+  1. Front End Mentor Challenges 
   2. Version control through iterative releases of a responsive Git Page
 
 ---
