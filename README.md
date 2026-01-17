@@ -22,13 +22,23 @@ I am currently completing a higher education as a Department of Defense contract
 
 ---
 
-## 🎒 Current School Schedule
+## 📆 Fall 2025 School Schedule
 | Class | Start Date | End Date | Subject Description | Status |
 |-------|--------------|------------|-------------------------|--------|
 | Programming II: C / C++ | 25 Aug. 2025 | 15 Dec. 2025 | Advanced object oriented programming in C++ language | Complete ✅: A |
 | Technical Writing | 25 Aug. 2025 | 15 Dec. 2025 | Introduction to technical writing in a professional environment | Complete ✅: A  |
 | Computer Systems and Procedures | 15 Sept. 2025 | 15 Dec. 2025 | Introduction to system design and planning | Complete ✅: A 
 |Introduction to Web Programming | 20 Oct. 2025 | 15 Dec. 2025 | Introduction to web development | Complete ✅: A  |
+
+---
+
+## 🎒 Spring 2026 School Schedule
+| Class | Start Date | End Date | Subject Description | Status |
+|-------|--------------|------------|-------------------------|--------|
+| Advanced Technical Writing | 11 Feb. 2026 | 07 Apr. 2026 | A comprehensive, project-based study of applied technical writing. | In Progress... |
+| Professional and Career Exploration for Transfer Students | 11 Feb. 2026 | 10 Mar. 2026 | An orientation to UMGC and exploration of how UMGC academic programs align to professional goals and career options. | In Progress...  |
+| Elements of Nutrition | 11 Mar. 2026 | 05 May 2026 | A study of the scientific and quantitative foundations of the applied science of human nutrition. | In Progress...  | 
+
 
 ---
 ## 🥳 Career Accomplishments 
